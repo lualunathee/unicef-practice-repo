@@ -1,4 +1,3 @@
-# unicef-practice-repo
 # Unified Open Ecosystem KBTU
 
 ## Description
